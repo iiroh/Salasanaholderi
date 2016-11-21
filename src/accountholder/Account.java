@@ -18,7 +18,7 @@ public class Account implements java.io.Serializable {
     private String Password;
     private String Username;
     private String Mail;
-//    private String Note;
+//    private String Note noteja vaan vitut niistä;
     
     
 public Account(String accountName, String username, String password, String mailaddress){
